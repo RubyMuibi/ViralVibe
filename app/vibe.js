@@ -2,7 +2,7 @@ import { useState } from "react";
 import { View, Text, ScrollView, SafeAreaView, StyleSheet } from "react-native";
 import { Stack} from "expo-router";
 
-import Header from "../components/Header";
+import Header from "../components/Header/Header";
 
 function VibePage() {
     return (
