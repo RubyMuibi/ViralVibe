@@ -7,7 +7,6 @@ function Header () {
     return (
         <View style={styles.viewContainer} >
          <Text style={styles.headerText} > ViralVibe </Text>
-         <Image style={styles.headerIcon} source={require("../assets/icons/github-icon.png")} />
         </View>
     )
 }
